@@ -93,7 +93,7 @@ The [`MainMenuController`](https://github.com/Vinnaeysh1507/Swan_Blindly/blob/0c
 
 ## PostProcessingManager Script
 
-The `PostProcessingManager` script plays a role in managing post-processing effects and visual enhancements in our project. These effects contribute to the overall atmosphere of the game. This script is designed to handle various post-processing profiles dynamically, making it possible to transition between different visual styles and apply effects in response to in-game events.
+The [`PostProcessingManager`](https://github.com/Vinnaeysh1507/Swan_Blindly/blob/0c4250966b6da9ef48bec900ced2a74d7683608f/Swan_Blindly/Assets/Brandon/Scripts/PostProcessingManager.cs#L1) script plays a role in managing post-processing effects and visual enhancements in our project. These effects contribute to the overall atmosphere of the game. This script is designed to handle various post-processing profiles dynamically, making it possible to transition between different visual styles and apply effects in response to in-game events.
 
 ### Script Components
 
